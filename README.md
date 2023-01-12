@@ -29,3 +29,21 @@
 * [Oracle Certificed Professional Java SE 11 Developer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DB42305F18FBDE1C2B6AE25BBBB4EB48F1AB2B5F09178AA8581E16DA0ADB2657)
 * [Google Cloud Certified Associate Cloud Engineer](https://www.credential.net/1895fb6c-bdd0-4168-b41f-0a89271739cf?_ga=2.249283079.1881784009.1665090195-136234249.1664560753&_gl=1*ewvip9*_ga*MTM2MjM0MjQ5LjE2NjQ1NjA3NTM.*_ga_FSDJZHHBH0*MTY2NTA5MDE5NC4zLjEuMTY2NTA5MDI0My4wLjAuMA..)
 
+# Otros Cursos
+* [SpringBoot - Spring WebFlux](https://www.udemy.com/certificate/UC-bc753a54-20f9-4c9e-a4f5-8c75ec2aa85b/)
+* [Kubernetes](https://www.udemy.com/certificate/UC-3f408947-89c5-4cca-80fa-5b12b15f5292/)
+* [Openshift 4](https://www.udemy.com/certificate/UC-28eb0af4-164e-43dc-af17-21021e777da7/)
+* [GitLab CI](https://www.udemy.com/certificate/UC-3d50b59e-59b4-490d-945b-862d294778ae/)
+
+# Ultimos Libros Leidos
+* ![Azure](https://images.manning.com/360/480/resize/book/b/7928fec-b5ca-423e-aad8-7736b6df918b/Klint-MEAP-HI.png)
+* ![Terraform](https://images.manning.com/360/480/resize/book/a/5d34a72-3793-4bbc-8f26-6db463d4c9ea/Winkler-Terraform-HI.png)
+* ![kubernete](https://images.manning.com/360/480/resize/book/2/7d2e426-8971-4726-b0ff-71fd92ee86b2/Luksa-Kubernetes-2ed-MEAP-HI.png)
+* ![IaC](https://images.manning.com/360/480/resize/book/2/9951cba-7a0f-4b30-9412-b19ac3bbfb67/Wang-HI.png)
+* ![GCP](https://images.manning.com/360/480/resize/book/b/20ddcc2-7c20-4d7b-aeac-ca11d2db279e/Geewax-GoogleCP-HI.png)
+* ![SS](https://images.manning.com/360/480/resize/book/6/e751b54-0e51-4676-b05f-c0f023d152b9/Spilca-Spring-HI.png)
+* ![SM](https://images.manning.com/360/480/resize/book/a/6485b53-630d-4e44-9503-46d4329fbd35/Huaylupo-2ed-HI.png)
+* ![OC](https://images.manning.com/360/480/resize/book/2/25f4fa5-2fb2-4aa6-ae86-709f8bab1d0d/Duncan-OpenShift-HI.png)
+* ![Camel](https://images.manning.com/360/480/resize/book/c/679d9b4-96ca-42b1-8067-ea22a630fd1e/Ibsen-Camel-2ed-HI.png)
+
+
