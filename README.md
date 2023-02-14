@@ -44,6 +44,7 @@
 * ![GCP](https://images.manning.com/360/480/resize/book/b/20ddcc2-7c20-4d7b-aeac-ca11d2db279e/Geewax-GoogleCP-HI.png)
 * ![SS](https://images.manning.com/360/480/resize/book/6/e751b54-0e51-4676-b05f-c0f023d152b9/Spilca-Spring-HI.png)
 * ![SM](https://images.manning.com/360/480/resize/book/a/6485b53-630d-4e44-9503-46d4329fbd35/Huaylupo-2ed-HI.png)
+# Libros Recomendados para Desarrolladores 2021.
 * ![OC](https://images.manning.com/360/480/resize/book/2/25f4fa5-2fb2-4aa6-ae86-709f8bab1d0d/Duncan-OpenShift-HI.png)
 * ![Camel](https://images.manning.com/360/480/resize/book/c/679d9b4-96ca-42b1-8067-ea22a630fd1e/Ibsen-Camel-2ed-HI.png)
 
