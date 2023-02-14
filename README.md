@@ -35,11 +35,12 @@
 * [Openshift 4](https://www.udemy.com/certificate/UC-28eb0af4-164e-43dc-af17-21021e777da7/)
 * [GitLab CI](https://www.udemy.com/certificate/UC-3d50b59e-59b4-490d-945b-862d294778ae/)
 
-# Ultimos Libros Leidos
+# Libros Recomendados para Desarrolladores 2023.
 * ![Azure](https://images.manning.com/360/480/resize/book/b/7928fec-b5ca-423e-aad8-7736b6df918b/Klint-MEAP-HI.png)
 * ![Terraform](https://images.manning.com/360/480/resize/book/a/5d34a72-3793-4bbc-8f26-6db463d4c9ea/Winkler-Terraform-HI.png)
 * ![kubernete](https://images.manning.com/360/480/resize/book/2/7d2e426-8971-4726-b0ff-71fd92ee86b2/Luksa-Kubernetes-2ed-MEAP-HI.png)
 * ![IaC](https://images.manning.com/360/480/resize/book/2/9951cba-7a0f-4b30-9412-b19ac3bbfb67/Wang-HI.png)
+# Libros Recomendados para Desarrolladores 2022.
 * ![GCP](https://images.manning.com/360/480/resize/book/b/20ddcc2-7c20-4d7b-aeac-ca11d2db279e/Geewax-GoogleCP-HI.png)
 * ![SS](https://images.manning.com/360/480/resize/book/6/e751b54-0e51-4676-b05f-c0f023d152b9/Spilca-Spring-HI.png)
 * ![SM](https://images.manning.com/360/480/resize/book/a/6485b53-630d-4e44-9503-46d4329fbd35/Huaylupo-2ed-HI.png)
