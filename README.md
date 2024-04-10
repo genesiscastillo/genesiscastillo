@@ -28,6 +28,7 @@
 
 * [Oracle Certificed Professional Java SE 11 Developer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DB42305F18FBDE1C2B6AE25BBBB4EB48F1AB2B5F09178AA8581E16DA0ADB2657)
 * [Google Cloud Certified Associate Cloud Engineer](https://www.credential.net/1895fb6c-bdd0-4168-b41f-0a89271739cf?_ga=2.249283079.1881784009.1665090195-136234249.1664560753&_gl=1*ewvip9*_ga*MTM2MjM0MjQ5LjE2NjQ1NjA3NTM.*_ga_FSDJZHHBH0*MTY2NTA5MDE5NC4zLjEuMTY2NTA5MDI0My4wLjAuMA..)
+* [Red Hat Openshift](https://www.udemy.com/certificate/UC-28eb0af4-164e-43dc-af17-21021e777da7/)
 
 # Otros Cursos
 * [SpringBoot - Spring WebFlux](https://www.udemy.com/certificate/UC-bc753a54-20f9-4c9e-a4f5-8c75ec2aa85b/)
